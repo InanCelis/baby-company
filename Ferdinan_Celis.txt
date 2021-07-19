@@ -1,0 +1,10 @@
+HTML: 		9
+CSS:		8	
+Bootstrap:	8
+JavaScript:	7
+Jquery:		7
+PHP:		7
+SQL:		7
+Wordpress:	1
+
+
